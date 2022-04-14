@@ -1,0 +1,6 @@
+framework module Pods_NavigationUsingSegues {
+  umbrella header "Pods-NavigationUsingSegues-umbrella.h"
+
+  export *
+  module * { export * }
+}
